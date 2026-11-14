@@ -5,7 +5,7 @@ project:
   # title: Prénom NOM
   # description:
   # keywords: []
-  # authors: []
+  # authors: [Sébastien Kessler]
   # github:
   toc:
     - file: content/apropos.md
