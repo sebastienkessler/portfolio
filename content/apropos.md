@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en **[géologie]** à l'**UNIL**, avec un intérêt particulier pour **[les risques naturels]**.
+Je suis étudiant(e) en bachelor en géologie à l'**UNIL**, avec un intérêt particulier pour les risques naturels.
