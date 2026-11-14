@@ -2,19 +2,18 @@
 
 **Orientation :**
 
-[Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
+[Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) 
 
 ---
 
 ## 1. Cinq compétences que je reconnais avoir travaillées
 
-*Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Python (modélisation et analyse de données) 
+2. QGIS 
+3. Cartographie géologique
+4. Pétrologie métamorphique
+5. Géologie: Observations de terrain
 
 ---
 
@@ -27,7 +26,6 @@
 | Compétence 1 |  |  |  |
 | Compétence 2  |  |  |  |
 |  Compétence 3 |  |  |  |
-|  Compétence 4 (hors cursus) |  |  |  |
 ---
 
 *Arbre des connaissances, état au 21 octobre 2026 · [gse-sondage.unil.ch/quiz-rentree-fgse/arbre/](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)*
