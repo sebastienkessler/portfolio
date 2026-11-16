@@ -19,8 +19,6 @@
 
 ## 2. Trois de ces cinq, avec leur preuve
 
-*Une ligne par preuve. La dernière colonne est la plus importante : peux-tu rouvrir cette preuve en deux minutes ?*
-
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
 | Reconnaître et échantillonner des associations magmatiques sur le terrain |  |  |  |
