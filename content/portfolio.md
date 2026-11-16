@@ -9,11 +9,11 @@
 ## 1. Cinq compétences que je reconnais avoir travaillées
 
 
-1. Python (modélisation et analyse de données) 
-2. QGIS 
-3. Cartographie géologique
-4. Pétrologie métamorphique
-5. Géologie: Observations de terrain
+1. Reconnaître et échantillonner des associations magmatiques sur le terrain
+2. Comprendre quantitativement les grands processus tectoniques et géodynamiques 
+3. Expliquer les processus de transport et de dépôt des sédiments
+4. Identifier et interpréter les principaux constituants, textures et structures des roches sédimentaires
+5. Modéliser des phénomènes de diffusion et d'advection sur python
 
 ---
 
@@ -23,9 +23,9 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-| Compétence 1 |  |  |  |
-| Compétence 2  |  |  |  |
-|  Compétence 3 |  |  |  |
+| Reconnaître et échantillonner des associations magmatiques sur le terrain |  |  |  |
+| Comprendre quantitativement les grands processus tectoniques et géodynamiques |  |  |  |
+|  Modéliser des phénomènes de diffusion et d'advection sur python |  |  |  |
 ---
 
 *Arbre des connaissances, état au 21 octobre 2026 · [gse-sondage.unil.ch/quiz-rentree-fgse/arbre/](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)*
